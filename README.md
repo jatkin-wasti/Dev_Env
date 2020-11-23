@@ -10,6 +10,13 @@ like opensource
   - Faster
   - More secure
   - Lighter
+### Bash commands
+- Inside linux machine we can use bash commands
+- ```sudo``` lets you run commands as the admin
+- ```ls```, ```ll```, ```cd```, ```mkdir```, ```rm```, ```rm -rf```, ```ls -a```
+- ```apt-get``` is the package manager for ubuntu (can just use ```apt``` now)
+- ```apt-get update``` updates the install list
+
 ## Virtual Box
 - Opensource software that can be used for virtualisation
 - It creates VMs (Virtual Machines) to run another OS
